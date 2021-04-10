@@ -1,0 +1,43 @@
+/*
+
+maximos width:
+- 1520
+- 880
+- 480
+- 380
+
+*/
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+/* 1520px */
+@media screen and (min-width: 1520px) {
+  .wrapper {
+    max-width: 1520px;
+  }
+}
+
+/* 880px */
+@media screen and (max-width: 1520px) {
+  .wrapper {
+    max-width: 880px;
+  }
+}
+
+/* 480px */
+@media screen and (max-width: 880px) {
+  .wrapper {
+    max-width: 480px;
+  }
+}
+
+/* 380px */
+@media screen and (max-width: 480px) {
+  .wrapper {
+    max-width: 380px;
+  }
+}
