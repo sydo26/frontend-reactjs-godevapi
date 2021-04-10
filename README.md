@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Esse projeto está incompleto!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto é referente a [frontend-reacjs](https://github.com/godevapi/vagas/tree/master/frontend-reactjs)
 
-## Available Scripts
+Não pude concluir esse projeto, mas caso desejem me avaliar por esse mesmo projeto, eu irei estar terminando ele assim que possível, mas tenho outros projetos em meu github que podem ser avaliados, como por exemplo: [reautobrl](https://github.com/sydo26/reautobrl).
 
-In the project directory, you can run:
+## O que foi utilizado no projeto e o motivo.
 
-### `yarn start`
+- `create-react-app` - Não escolhi o NextJs pois estava querendo estudar, e o nextjs faz muito pelo desenvolvedor, não precisando por exemplo configurar o react-router-dom
+- `redux` - Estava pensando sobre usar ou não usar Redux, e no fim optei por utilizar
+- `styled-components` - Utilizei para controlar os estilos globais com o ThemeProvider, e permitir o usuário alterar o tema de light para dark por exemplo.
+- `webfontloader` - Para carregar as fontes do google.
+- `react-router-dom` - Para controlar as rotas do aplicativo, no caso minha ideia é uma apresentação no home com um link para o conectores.
+- `lodash` - Para otimizar meu trabalho com uma melhor interação entre arrays, maps e strings.
+- `react-svg` - Para transformar mais facilmente um arquivo svg para ser utilizado em jsx.
+- `react-spring` - Pretendo fazer umas pequenas transições com essa biblioteca, para fins de estudo.
+- `react-query` - Pretendo utilizar para realizar os request com a api.
+- `@material-ui/icons` - Ícones.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Previsão para quando irei voltar a fazer o projeto: (12/04/2021)
